@@ -1,7 +1,7 @@
 # 🤝 About Me:
 </> I'm currently working on personal projects to add to my portfolio on my website 🌐<br>👨🏻‍🎓 Degree: Software Engineer at National Technological Institute of Mexico 🇲🇽<br>👨🏻‍💻 Worked for 1 year as Junior Developer (.NET / React) at Advancio<br>
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVlY3ZoMWFja2xmcXM1MHJmZTQydGlrOHNkNndqaTYyMWRjdDcxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UCt7zbmsLoCXybx6t/giphy.webp
+https://c.tenor.com/-kZOB16tELEAAAAC/tenor.gif
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfredevvv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armanriquez-94mx) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/alfredevvv) 
