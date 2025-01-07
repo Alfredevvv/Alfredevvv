@@ -1,5 +1,6 @@
 <img src="banner-sencillo.jpg" alt="GitHub Banner" width="100%" /> <br>
 
+---
 👨🏻‍🎓 **Degree:** Software Engineer at  
 <a href="https://www.ensenada.tecnm.mx" target="_blank">
    **_National Technological Institute of Mexico_**
