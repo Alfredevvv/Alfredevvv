@@ -4,7 +4,7 @@
 🤝 About Me:
 </> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/>
 <br>👨🏻‍🎓 Degree: Software Engineer at <a href="https://www.ensenada.tecnm.mx"> National Technological Institute of Mexico <a/>
-<br>👨🏻‍💻 Worked for 1 year as Junior Developer (.NET / React ) at <a href="https://www.advancio.com">Advancio<a/><br>
+<br>👨🏻‍💻 Worked for 1 year as Junior Developer (.NET / React ) at <a href="https://www.advancio.com">Advancio<a/> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.cdcuauhtemoc.tecnm.mx/wp-content/uploads/2021/08/Logo-TecNM.png"/><br>
 
 ![Mi increíble GIF](https://c.tenor.com/-kZOB16tELEAAAAC/tenor.gif)
 
