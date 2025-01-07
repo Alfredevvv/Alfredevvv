@@ -3,7 +3,7 @@
 </div>
 
 ---
-👨🏻‍🎓 **Degree:** Software Engineer at  
+👨🏻‍🎓 **Degree:** **Software Engineer** at  
 <a href="https://www.ensenada.tecnm.mx" target="_blank">
    **_National Technological Institute of Mexico_**
 </a>
