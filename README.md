@@ -2,7 +2,6 @@
 
 # Hello World!, I'm Alfredo, a Software Engineer 👋🏼: <br> 
 
-</> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/><br><br>
 👨🏻‍🎓 **Degree:** Software Engineer at  <a href="https://www.ensenada.tecnm.mx" target="_blank"> National Technological Institute of Mexico 
     <img alt="TecNM" src="https://www.cdcuauhtemoc.tecnm.mx/wp-content/uploads/2021/08/Logo-TecNM.png" width="150" height="40" style="vertical-align:middle; margin-left:5px;"/>
 </a>
