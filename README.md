@@ -1,6 +1,6 @@
 <img src="banner-sencillo.jpg" alt="GitHub Banner" width="100%" /> <br>
 
-** # Hello World!, I'm Alfredo, a Software Engineer 👋🏼: # ** <br> 
+# Hello World!, I'm Alfredo, a Software Engineer 👋🏼: # <br> 
 🤝 About Me:
 </> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/>
 <br>👨🏻‍🎓 Degree: Software Engineer at <a href="https://www.ensenada.tecnm.mx"> National Technological Institute of Mexico <a/>
@@ -31,7 +31,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
----
+
 #
 
 # 💻 Tech Stack:
