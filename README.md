@@ -16,11 +16,43 @@
 ---
 
 # 💻 Main Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,cs,nodejs,express,mongodb,postman,git,github,rider,visualstudio,vscode,notion,discord&perline=10" />
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td>
+      <b>Frontend</b>
+      <ul>
+        <li>🔹 HTML5</li>
+        <li>🔹 CSS3</li>
+        <li>🔹 JavaScript</li>
+        <li>🔹 TypeScript</li>
+        <li>🔹 React</li>
+        <li>🔹 NextJS</li>
+        <li>🔹 TailwindCSS</li>
+      </ul>
+      <b>Backend</b>
+      <ul>
+        <li>🔹 C#</li>
+        <li>🔹 .NET</li>
+        <li>🔹 Node.js</li>
+        <li>🔹 Express.js</li>
+        <li>🔹 SQL (MySQL, PostgreSQL, SQL Server)</li>
+        <li>🔹 MongoDB</li>
+        <li>🔹 REST APIs</li>
+        <li>🔹 JWT Authentication</li>
+      </ul>
+    </td>
+    <td align="center">
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,cs,nodejs,express,mongodb,postman,git,github,rider,visualstudio,vscode,notion,discord&perline=10" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
