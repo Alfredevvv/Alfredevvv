@@ -25,6 +25,7 @@
 <img align="left" alt="Csharp" width="50px" style="padding-right:10px;" src="c--4.svg" />
 <img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="mongodb-icon-2.svg" />
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="nodejs-2.svg" />
+<img align="left" alt="Dotnet" width="50px" style="padding-right:10px;" src="dotnet-svgrepo-com.svg" />
 <br />
 
 #
