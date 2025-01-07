@@ -3,13 +3,11 @@
 👨🏻‍🎓 **Degree:** Software Engineer at  
 <a href="https://www.ensenada.tecnm.mx" target="_blank">
    **_National Technological Institute of Mexico_**
-   <img alt="TecNM" src="https://www.cdcuauhtemoc.tecnm.mx/wp-content/uploads/2021/08/Logo-TecNM.png" width="150" height="40" style="vertical-align:middle; margin-left:5px;"/>
 </a>
 
 👨🏻‍💻 **Working Experience:** 1 year as Junior Developer (.NET / React) at  
 <a href="https://www.advancio.com" target="_blank">
    **_Advancio_**
-   <img alt="Advancio" src="https://www.advancio.com/wp-content/uploads/2021/09/advancio.svg" width="100" height="18" style="vertical-align:middle; margin-right:5px;"/>
 </a>
 
 # 🌐 Socials:
