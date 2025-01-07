@@ -5,7 +5,7 @@
 </> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/><br>
 <br>👨🏻‍🎓 Degree: Software Engineer at <a href="https://www.ensenada.tecnm.mx"> National Technological Institute of Mexico <img alt="tecnm" width="150px" height="40px" style="padding:2px;" src="https://www.cdcuauhtemoc.tecnm.mx/wp-content/uploads/2021/08/Logo-TecNM.png"/><a/>
 
-<br>👨🏻‍💻 Working Experience for 1 year as Junior Developer (.NET / React ) at <a href="https://www.advancio.com"><img alt="tecnm" width="100px" height="18px" style="padding:2px;" src="https://www.advancio.com/wp-content/uploads/2021/09/advancio.svg"/><a/><br><br>
+<br>👨🏻‍💻 Working Experience for 1 year as Junior Developer (.NET / React ) at  <a href="https://www.advancio.com"> <img alt="tecnm" width="100px" height="18px" style="padding:2px;" src="https://www.advancio.com/wp-content/uploads/2021/09/advancio.svg"/> <a/><br><br>
 
 ![Mi increíble GIF](https://c.tenor.com/-kZOB16tELEAAAAC/tenor.gif)
 
