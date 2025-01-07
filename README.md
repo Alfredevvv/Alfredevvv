@@ -2,7 +2,7 @@
 ** # Hello World!, I'm Alfredo, a Software Engineer 👋🏼: # ** <br> 
 🤝 About Me:
 </> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/>
-<br>👨🏻‍🎓 Degree: Software Engineer at <a href="https://www.ensenada.tecnm.mx>National Technological Institute of Mexico<a/>
+<br>👨🏻‍🎓 Degree: Software Engineer at <a href="https://www.ensenada.tecnm.mx> National Technological Institute of Mexico <a/>
 <br>👨🏻‍💻 Worked for 1 year as Junior Developer (.NET / React) at [Advancio] (https://www.advancio.com/)<br>
 
 ![Mi increíble GIF](https://c.tenor.com/-kZOB16tELEAAAAC/tenor.gif)
