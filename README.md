@@ -1,4 +1,6 @@
-<img src="banner-sencillo.jpg" alt="GitHub Banner" width="100%" /> <br>
+<div align="center">
+    <img src="Hello, (3).png" alt="Banner" width="70%" />
+</div>
 
 ---
 👨🏻‍🎓 **Degree:** Software Engineer at  
