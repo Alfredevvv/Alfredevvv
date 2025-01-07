@@ -1,4 +1,5 @@
 <img src="banner-sencillo.jpg" alt="GitHub Banner" width="100%" />
+---
 ** # Hello World!, I'm Alfredo, a Software Engineer 👋🏼: # ** <br> 
 🤝 About Me:
 </> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/>
