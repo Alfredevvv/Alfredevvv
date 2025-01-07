@@ -1,5 +1,5 @@
 <img src="banner-sencillo.jpg" alt="GitHub Banner" width="100%" />
-# Hello World!, I'm Alfredo, a Software Engineer 👋🏼:
+# Hello World!, I'm Alfredo, a Software Engineer 👋🏼: <br>
 # 🤝 About Me:
 </> I'm currently working on personal projects to add to my portfolio on my [website] (https://www.facebook.com) 🌐<br>👨🏻‍🎓 Degree: Software Engineer at [National Technological Institute of Mexico] (https://www.ensenada.tecnm.mx/) 🇲🇽<br>👨🏻‍💻 Worked for 1 year as Junior Developer (.NET / React) at [Advancio] (https://www.advancio.com/)<br>
 
