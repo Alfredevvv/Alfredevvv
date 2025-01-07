@@ -61,6 +61,7 @@
     <img src="https://c.tenor.com/-kZOB16tELEAAAAC/tenor.gif" alt="Awesome GIF" width="70%" />
 </div>
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alfredevvv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
