@@ -2,10 +2,16 @@
 
 # Hello World!, I'm Alfredo, a Software Engineer 👋🏼: <br> 
 
-</> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/><br>
-<br>👨🏻‍🎓 Degree: Software Engineer at <a href="https://www.ensenada.tecnm.mx"> National Technological Institute of Mexico <img alt="tecnm" width="150px" height="40px" style="padding:2px;" src="https://www.cdcuauhtemoc.tecnm.mx/wp-content/uploads/2021/08/Logo-TecNM.png"/><a/>
+</> I'm currently working on personal projects to add to my portfolio on my <a href="https://www.facebook.com"> website 🌐<a/><br><br>
+👨🏻‍🎓 **Degree:** Software Engineer at  <a href="https://www.ensenada.tecnm.mx" target="_blank"> National Technological Institute of Mexico 
+    <img alt="TecNM" src="https://www.cdcuauhtemoc.tecnm.mx/wp-content/uploads/2021/08/Logo-TecNM.png" width="150" height="40" style="vertical-align:middle; margin-left:5px;"/>
+</a>
 
-<br>👨🏻‍💻 Working Experience for 1 year as Junior Developer (.NET / React ) at  <a href="https://www.advancio.com"> <img alt="tecnm" width="100px" height="18px" style="padding:2px;" src="https://www.advancio.com/wp-content/uploads/2021/09/advancio.svg"/> <a/><br><br>
+👨🏻‍💻 **Working Experience:** 1 year as Junior Developer (.NET / React) at
+<a href="https://www.advancio.com" target="_blank">
+    <img alt="Advancio" src="https://www.advancio.com/wp-content/uploads/2021/09/advancio.svg" width="100" height="18" style="vertical-align:middle; margin-right:5px;"/>
+</a>
+
 
 ![Mi increíble GIF](https://c.tenor.com/-kZOB16tELEAAAAC/tenor.gif)
 
