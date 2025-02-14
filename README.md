@@ -10,7 +10,7 @@
    **_National Technological Institute of Mexico_**
 </a>
 
-👨🏻‍💻 **Working Experience:** **1 year** as Junior Developer (.NET / React) at  
+👨🏻‍💻 **Working Experience:** **1 year** as Junior Developer (.NET) at  
 <a href="https://www.advancio.com" target="_blank">
    **_Advancio_**
 </a>
