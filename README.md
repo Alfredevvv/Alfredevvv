@@ -15,7 +15,8 @@
    **_Advancio_**
 </a>
 
-**Working Experience:** **+2 years** as Free Lance Developer (Full Stack)
+👨🏻‍💻 **Working Experience:** **+2 years** as Free Lance Developer (Full Stack)
+
 ---
 
 # 💻 Main Skills
