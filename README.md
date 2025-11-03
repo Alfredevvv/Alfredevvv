@@ -15,6 +15,7 @@
    **_Advancio_**
 </a>
 
+**Working Experience:** **+2 years** as Free Lance Developer (Full Stack)
 ---
 
 # 💻 Main Skills
@@ -41,7 +42,6 @@
         <li>🔹 SQL (MySQL, PostgreSQL, SQL Server)</li>
         <li>🔹 MongoDB</li>
         <li>🔹 REST APIs</li>
-        <li>🔹 JWT Authentication</li>
       </ul>
     </td>
     <td align="center">
